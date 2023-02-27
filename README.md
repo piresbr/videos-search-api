@@ -12,8 +12,8 @@
 * HTML
 * CSS
 
-##Install
+## Install
 npm i
 
-##Start
+## Start
 npx json-server --watch db.json
